@@ -1,5 +1,8 @@
 # projeto
 
-salve
+primeiro contato, n espere mt
 
-passei mal
+Tecnologias usadas
+HTML CSS JS
+git e github
+figma
